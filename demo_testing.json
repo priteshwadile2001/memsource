@@ -1,0 +1,424 @@
+{
+  "type": "item",
+  "hero_title": {
+    "en": "Feel them on you knees..."
+  },
+  "slug": "capsulized",
+  "teaser_title": {
+    "en": "World's first built-in certified kneepads"
+  },
+  "double_color_title": false,
+  "seo": {
+    "en": {
+      "image": null,
+      "title": "Capsulized  | Snickers Workwear",
+      "description": null,
+      "twitter_card": null
+    }
+  },
+  "teaser_description": {
+    "en": ""
+  },
+  "title": "Capsulized",
+  "label": {
+    "en": ""
+  },
+  "pre_title": {
+    "en": ""
+  },
+  "content_area": {
+    "en": [
+      {
+        "type": "item",
+        "attributes": {
+          "video": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57197007"
+          },
+          "poster_image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "58022182"
+          },
+          "title": "Feel them on you knees",
+          "cta_text": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2019694",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "World's first built-in certified kneepads",
+          "body": "Snickers Workwear has been inventing - and reinventing - workwear since 1975. And now we’re doing it again with the launch of the world’s first built-in, certified kneepads completely integrated into a pair of premium stretch trousers. With low-profile, lightweight, and flexible kneepads, these trousers provide a freedom of movement and comfort that usually only comes with no kneepads at all.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "55236069"
+          },
+          "small": false
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1389420",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "Low-profile, comfortable impact protection    ",
+          "body": "Our brand new 6590 AllroundWork, Stretch Trousers Capsulized™ Kneepads Holster Pockets are the result of an intensive research and development process that has spanned the last three years. The results are an innovative combination of cutting-edge sportswear technology coupled with our well-established workwear know-how. The 6590 trousers will become the obvious choice for craftsmen that are constantly on the move, and want the flexibility and durability of welded-into-place, certified knee protection.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "6590 AllroundWork, Stretch Trousers Capsulized™ Kneepads Holster Pockets",
+          "text_content": "The world’s first work trouser with EN 14404-certified kneepads permanently welded into place. Durable and comfortable, these slim-fit trousers are built for everyday use.",
+          "text_content_center": false,
+          "text_content_right": false,
+          "text_background_color": {
+            "red": 242,
+            "blue": 242,
+            "alpha": 255,
+            "green": 242
+          },
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "58314562"
+          },
+          "align_media_left": false,
+          "video": null,
+          "cta_label": "Get Capsulized™  ",
+          "cta_url": "/products/trousers/work-trousers",
+          "cta_color": {
+            "red": 15,
+            "blue": 14,
+            "alpha": 255,
+            "green": 14
+          },
+          "cta_text_color": {
+            "red": 248,
+            "blue": 244,
+            "alpha": 255,
+            "green": 247
+          }
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2025973",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "text": "Freedom of movement that almost feels like there are no kneepads at all."
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387755",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "Slim-fit trousers for everyday use",
+          "body": "These hard-working trousers feature an enhanced flexibility thanks to a 2-way stretch fabric and additional 4-way stretch panels at key stress points. CORDURA® reinforced holster, ruler, and cargo, pockets add a durable functionality for your everyday-carry. And our new durable yet lightweight Capsulized™ kneepads provide an ergonomic, always-on protection during your entire workday.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "Certified according to EN 14404",
+          "text_content": "Our Capsulized™ kneepads are certified Level 1 knee protection. However, as they are fully integrated, correct trouser size and length is very important for proper kneepad positioning. To make sure your trousers fit both you and the job at hand, check our size guide.  ",
+          "text_content_center": false,
+          "text_content_right": false,
+          "text_background_color": {
+            "red": 255,
+            "blue": 0,
+            "alpha": 255,
+            "green": 214
+          },
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57947326"
+          },
+          "align_media_left": true,
+          "video": null,
+          "cta_label": "Get your right size",
+          "cta_url": "/list/product-guide/size-guide",
+          "cta_color": {
+            "red": 12,
+            "blue": 12,
+            "alpha": 255,
+            "green": 12
+          },
+          "cta_text_color": {
+            "red": 249,
+            "blue": 249,
+            "alpha": 255,
+            "green": 249
+          }
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2025973",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "The making of Capsulized™",
+          "body": "Our new Capsulized™ kneepads are welded together with 196° C of pressurised heat. On the outside is a layer of durable CORDURA® stretch fabric. Then comes an adhesive layer for flexibility that connects the CORDURA® to the first performance layer of high-density blue foam. This blue foam has a 110 kg density of impact absorption. Then comes a purple shield of high-density recycled rubber that delivers a whopping 238 kg density of penetration protection. That’s topped by a comfort layer of grey foam with an additional 80 kg density. Finally a backend of polyester fabric seals the other layers onto the trouser leg and provides a comfortable surface for the wearer.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "The Capsulized™ layer cake",
+          "text_content": "Six unique layers of Capsulized™ interface with each other to dissipate the energy created when you work on your knees. The outer performance layers protect you from hard surfaces, while the inside layer keeps you comfortable. ",
+          "text_content_center": false,
+          "text_content_right": false,
+          "text_background_color": null,
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57947327"
+          },
+          "align_media_left": false,
+          "video": null,
+          "cta_label": "",
+          "cta_url": "",
+          "cta_color": null,
+          "cta_text_color": null
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2025973",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "text": "Capsulized™. That’s what we call Inventing workwear."
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387755",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57947325"
+          },
+          "small": false
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1389420",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "",
+          "body": "At Snickers Workwear, we make the one tool that every professional craftsman and craftswoman need – durable and functional workwear. We do that with smart and clever solutions that make it easier for the people who wear our clothes to get their jobs done. And we do that with an attention to safety, comfort, longevity, and sustainability. That’s what we call  ”Inventing workwear”. And that’s exactly what our new 6590 AllroundWork, Stretch Trousers Capsulized™ Kneepads Holster Pockets stand for.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "",
+          "products": 990,
+          "cta_text": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1997580",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "Continue reading",
+          "three_columns": true,
+          "list": [
+            "120893575",
+            "83627746",
+            "144399628"
+          ]
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1997575",
+              "type": "item_type"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "sub_title": {
+    "en": ""
+  },
+  "teaser_image": {
+    "alt": null,
+    "title": null,
+    "custom_data": {},
+    "focal_point": null,
+    "upload_id": "58498230"
+  },
+  "description": {
+    "en": ""
+  },
+  "hide_legacy_hero": {
+    "en": true
+  },
+  "plug_ingress": {
+    "en": ""
+  },
+  "image": null,
+  "video": null,
+  "video_image": null,
+  "icon_image": null,
+  "icon_information_title": {
+    "en": ""
+  },
+  "cta_text": {
+    "en": ""
+  },
+  "cta_link": {
+    "en": ""
+  },
+  "hero_icon": false,
+  "align_content_left": false,
+  "search_box": false,
+  "hero_content_box_small": false,
+  "box_color": null,
+  "hero_content_box_big": false,
+  "size_guide_button": false,
+  "work_wear_button": false,
+  "item_type": {
+    "type": "item_type"
+  },
+  "id": "144703807",
+  "exportLocale": "en",
+  "toLanguage": "da-DK"
+}
