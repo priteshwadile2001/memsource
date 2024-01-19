@@ -1,5 +1,6 @@
 {
-  "Grymt jobbat,\nDu är klar!": "Grymt jobbat,\nDu är klar!",
+  
+  "Grymt jobbat,\nDu är klar!": "Grymt jobbat,\nDu är klar!PRITESH",
   "Kom ihåg\natt ta dig tid": "Kom ihåg\natt ta dig tid",
   "Vi snokar inte": "Vi snokar inte",
   "Tack för att\ndu deltar": "Tack för att\ndu deltar",
